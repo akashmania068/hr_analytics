@@ -72,7 +72,7 @@ Job Changes (in last 4 yrs)                                   - No of Job Change
 
 Employment Mode	Employment Mode (Current Job)                 - Permanent / Contract/ Unemployed/ Fresher
 
-Offered Employment Mode	Offered Employment Mode (New Job)     - C2H (Contract to Hire ) / Contract but more than 6 months ( project will be there min 6 months contract)
+Offered Employment Mode	Offered Employment Mode (New Job)     - C2H (Contract to Hire) / Contract but more than 6 months (project will be there min 6 months contract)
 
 Employer Category                                             - Employer Category(Current Job)
 

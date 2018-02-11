@@ -38,36 +38,67 @@ of hike or total salary those employees are getting?
 # Data Dictionary :-
 
 Emp Id                                                        - Masked
+
 Emp Name                                                      - Masked
+
 Recruiter Name                                                - Masked
+
 Company Name                                                  - Company for which Employee was hired
+
 Interest_Reason                                               - Reason for interest for the Job filled by the candidate
+
 Age                                                           - Age
+
 Gender                                                        - Gender
+
 Married                                                       - Married
+
 Married_With_Children                                         - Married_With_Children
+
 Sourcing Method                                               - Channel through which the candidate has applied for Job
+
 Current Location                                              - Current Location/City
+
 Experience Level                                              - Experience Level
+
 Qualification                                                 - Qualification
+
 Notice_Period_Days                                            - Notice Period in Days
+
 Contract Duration                                             - Contract Duration in Months
+
 Job Changes (in last 4 yrs)                                   - No of Job Changes in Last 4 Years
+
 Employment Mode	Employment Mode (Current Job)                 - Permanent / Contract/ Unemployed/ Fresher
+
 Offered Employment Mode	Offered Employment Mode (New Job)     - C2H (Contract to Hire ) / Contract but more than 6 months ( project will be there min 6 months contract)
-Employer Category                                             - Employer Category(Current Job )
+
+Employer Category                                             - Employer Category(Current Job)
+
 Offered Employer Category                                     - Offered Employer Category(New Job)
+
 Size of Company                                               - Size of Company(Current Job)
+
 Offered Size of Company                                       - Offered Size of Company (New Job)
+
 Salary Change (CTC Amount in Rs)                              - Current Job Salary
+
 Offered Salary Change (CTC Amount in Rs)                      - Offered Job Salary
+
 Hike                                                          - ((Offered Job Salary - Current Job Salary ) / Current Job Salary) * 100
+
 Career Impact                                                 - Recruiter's Feedback why candidate is interested in the job
+
 Work Schedule Change	                                      - Current job Work Shift
+
 Offered Work Schedule Change                                  - New Job Work Shift
+
 Location Advantage(Proximity)                                 - Current Job Location
+
 Offered Location Advantage(Proximity)                         - New Job Location
+
 Skills                                                        - Job Skills
+
 Joined Status	                                              - Active   - Accepted the Offer & Joined, 
                                                                 Drop     - Accepted the Offer but Did not Joined, 
                                                                 Pipeline - Accepted the Offer - Yet to make the decision (still has more days to join)
